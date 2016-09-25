@@ -1,2 +1,2 @@
 # hello-world
-still can't get why do I need it
+This description is intended to teach me using github technology.
